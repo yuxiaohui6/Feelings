@@ -15,4 +15,4 @@ Feeling是一款提供表情，动图服务的APP，用户可通过该APP进行�
 
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
-![baidu](http://pwzt6qzcw.bkt.clouddn.com/photo_2019-08-29_23-26-40%20%282%29.jpg "百度logo")
+![baidu](http://pwzt6qzcw.bkt.clouddn.com/photo_2019-08-29_23-26-40%20%282%29.jpg "图片")
