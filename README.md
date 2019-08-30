@@ -12,5 +12,5 @@ Feeling是一款提供表情，动图服务的APP，用户可通过该APP进行�
 邮箱： yuxiaohui776@gmail.com
 
 
-[![csdn-logo]][csdn]
 
+![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
