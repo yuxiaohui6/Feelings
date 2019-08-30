@@ -13,7 +13,6 @@ Feeling是一款提供表情，动图服务的APP，用户可通过该APP进行�
 
 
 
-![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 ![Image](https://github.com/yuxiaohui6/Feelings/blob/master/images/photo_2019-08-29_23-26-40%20(2).jpg)
 
