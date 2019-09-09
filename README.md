@@ -9,7 +9,7 @@ Feeling是一款提供表情，动图服务的APP，用户可通过该APP进行�
 
 [首页]浏览表情，动态图。点击可直接分享
 
-邮箱： yuxiaohui776@gmail.com
+邮箱： gjqp11112@gmail.com
 
 
 
