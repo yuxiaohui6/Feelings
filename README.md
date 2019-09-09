@@ -22,6 +22,6 @@ Feeling是一款提供表情，动图服务的APP，用户可通过该APP进行�
 
 ![Image](https://github.com/yuxiaohui6/Feelings/blob/master/images/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-09-09%20at%2020.56.29.png)
 
-![Image](https://github.com/yuxiaohui6/Feelings/blob/master/images/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-09-09%20at%2020.56.12.png)
+![Image](https://github.com/yuxiaohui6/Feelings/blob/master/images/img4.png)
 
-![Image](https://github.com/yuxiaohui6/Feelings/blob/master/images/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-09-09%20at%2020.56.12.png)
+![Image](https://github.com/yuxiaohui6/Feelings/blob/master/images/img5.png)
