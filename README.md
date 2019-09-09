@@ -14,8 +14,14 @@ Feeling是一款提供表情，动图服务的APP，用户可通过该APP进行�
 
 
 
-![Image](https://github.com/yuxiaohui6/Feelings/blob/master/images/photo_2019-08-29_23-26-40%20(2).jpg)
+![Image](https://github.com/yuxiaohui6/Feelings/blob/master/images/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-09-09%20at%2020.54.16.png)
 
-![Image](https://github.com/yuxiaohui6/Feelings/blob/master/images/photo_2019-08-29_23-26-35.jpg)
+![Image](https://github.com/yuxiaohui6/Feelings/blob/master/images/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-09-09%20at%2020.54.32.png)
 
-![Image](https://github.com/yuxiaohui6/Feelings/blob/master/images/photo_2019-08-29_23-26-51.jpg)
+![Image](https://github.com/yuxiaohui6/Feelings/blob/master/images/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-09-09%20at%2020.56.12.png)
+
+![Image](https://github.com/yuxiaohui6/Feelings/blob/master/images/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-09-09%20at%2020.56.29.png)
+
+![Image](https://github.com/yuxiaohui6/Feelings/blob/master/images/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-09-09%20at%2020.56.12.png)
+
+![Image](https://github.com/yuxiaohui6/Feelings/blob/master/images/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-09-09%20at%2020.56.12.png)
