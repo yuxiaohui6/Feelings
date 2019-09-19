@@ -9,19 +9,17 @@ Feeling是一款提供表情，动图服务的APP，用户可通过该APP进行�
 
 [首页]浏览表情，动态图。点击可直接分享
 
-邮箱： gjqp11112@gmail.com
+邮箱： gjqp11111@gmail.com
 
 
 
 
-![Image](https://github.com/yuxiaohui6/Feelings/blob/master/images/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-09-09%20at%2020.54.16.png)
+![Image](https://github.com/yuxiaohui6/Feelings/blob/master/images/img1.png)
 
-![Image](https://github.com/yuxiaohui6/Feelings/blob/master/images/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-09-09%20at%2020.54.32.png)
+![Image](https://github.com/yuxiaohui6/Feelings/blob/master/images/img2.png)
 
-![Image](https://github.com/yuxiaohui6/Feelings/blob/master/images/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-09-09%20at%2020.56.12.png)
-
-![Image](https://github.com/yuxiaohui6/Feelings/blob/master/images/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-09-09%20at%2020.56.29.png)
-
-![Image](https://github.com/yuxiaohui6/Feelings/blob/master/images/img4.png)
+![Image](https://github.com/yuxiaohui6/Feelings/blob/master/images/img3.png)
 
 ![Image](https://github.com/yuxiaohui6/Feelings/blob/master/images/img5.png)
+
+
